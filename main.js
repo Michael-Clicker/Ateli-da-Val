@@ -24,7 +24,7 @@
                 price: "R$ 24,99",
                 shortDesc: "Mantenha suas sacolas organizadas com estilo.",
                 fullDesc: "Puxa-saco espaçoso, com acabamento impecável, elásticos nas aberturas e presilha reforçada para pendurar. Deixa a cozinha organizada e muito mais charmosa.",
-                image: "assets/Puxa-saco-center.jpg",
+                image: "assets/puxa-saco-center.jpg",
                 detailImage: "assets/puxa-saco-detalhe.jpg"
             },
             /*{
